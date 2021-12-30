@@ -35,7 +35,7 @@ section{
     padding: 0 80px;
     margin: auto;
 }
-.about, .services, .skills, .teams, .contact, footer{
+.about, .services, .skills, .teams, .qualification_section, .Education_section, .contact, footer{
     font-family: 'Poppins', sans-serif;
 }
 .about .about-content,
@@ -76,6 +76,7 @@ section .title::after{
     background: #fff;
     transform: translateX(-50%);
 }
+
 
 /* navbar styling */
 .navbar{
